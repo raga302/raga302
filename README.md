@@ -1,4 +1,4 @@
-# Hi there, I'm Raga 👋
+# Hi there, I'm Rahul 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raga302&color=brightgreen)
 
